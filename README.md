@@ -415,7 +415,7 @@ This project was inspired by and/or built with reference to:
 - [am133/SmugMug-Image-Downloader](https://github.com/am133/SmugMug-Image-Downloader) – original idea for a Python-based SmugMug downloader.
 - [andyjsmith/SmugMug-Downloader](https://github.com/andyjsmith/SmugMug-Downloader) – earlier approach to bulk exporting images.
 - [phpSmug](https://github.com/lildude/phpSmug) – helped clarify SmugMug API patterns and folder traversal.
-- [How to use the SmugMug downloader](https://customsmug.com/tutorial/how-to-use-the-smugmug-downloader/) – inspired capture of file metadata, and later gallery metadata.
+- [CustomSmug Downloader](https://customsmug.com/tutorial/how-to-use-the-smugmug-downloader/) – inspired capture of file metadata, and later gallery metadata.
 
 ## Credits
 
